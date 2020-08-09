@@ -1,0 +1,30 @@
+_id,Date,Gender,Player/Team 1 Name,Player/Team 2 Name,Winner Name,Round Number,Court Name,Tournament Name,Score,MatchType
+5f21ecf3e7362f4842635570,2017-08-31,Men,(10) Rohan Bopanna / Pablo Cuevas,Bradley Klahn / Scott Lipsky,(10) Rohan Bopanna / Pablo Cuevas,First Round,Court 8,2017 US Open,(1-6)(6-3),Doubles
+5f21ed33e7362f4842635f0c,2018-03-09,Men,Thomas Fabbiano,Bradley Klahn,Thomas Fabbiano,First Round,Stadium 3,2018 BNP Paribas Open,(6-4)(6-4),Singles
+5f21ed6ce7362f484263679a,2018-07-03,Men,Yuichi Sugita,Bradley Klahn,Bradley Klahn,First Round,Court 16,2018 Wimbledon,(6-2)(6-7)(2-6)(2-6),Singles
+5f21ed70e7362f4842636828,2018-07-05,Men,(21) Kyle Edmund,Bradley Klahn,(21) Kyle Edmund,Second Round,Centre Court,2018 Wimbledon,(6-4)(7-6)(6-2),Singles
+5f21ed83e7362f4842636b18,2018-08-06,Men,Bradley Klahn,David Ferrer,Bradley Klahn,First Round,National Bank Grand Stand,2018 Rogers Cup (M),(7-6)(6-4),Singles
+5f21ed85e7362f4842636b5d,2018-08-08,Men,Bradley Klahn,(2) Alexander Zverev,(2) Alexander Zverev,Second Round,National Bank Grand Stand,2018 Rogers Cup (M),(4-6)(4-6),Singles
+5f21ed87e7362f4842636bb7,2018-08-13,Men,Maximilian Marterer,Bradley Klahn,Bradley Klahn,First Round,Court 11,2018 Western & Southern Open,(6-7)(4-6),Singles
+5f21ed89e7362f4842636bfd,2018-08-15,Men,Bradley Klahn,(13) Pablo Carreno Busta,(13) Pablo Carreno Busta,Second Round,Court 7,2018 Western & Southern Open,(4-6)(4-6),Singles
+5f21ed8de7362f4842636ca5,2018-08-27,Men,(11) John Isner,Bradley Klahn,(11) John Isner,First Round,Grandstand,2018 US Open,(7-6)(6-3)(6-4),Singles
+5f21ed92e7362f4842636d50,2018-08-29,Men,Bradley Klahn / Daniel Nestor,Christian Harrison / Ryan Harrison,Christian Harrison / Ryan Harrison,First Round,Court 6,2018 US Open,(3-6)(3-6),Doubles
+5f21eda6e7362f4842637069,2018-10-08,Men,Bradley Klahn,Nick Kyrgios,Bradley Klahn,First Round,Show Court 3,2018 Shanghai Rolex Masters,(4-6)(6-4)(6-3),Singles
+5f21eda7e7362f4842637083,2018-10-09,Men,Bradley Klahn,(13) Borna Coric,(13) Borna Coric,Second Round,Show Court 3,2018 Shanghai Rolex Masters,(4-6)(2-6),Singles
+5f21edabe7362f4842637128,2018-10-16,Men,Bradley Klahn,Marius Copil,Bradley Klahn,First Round,Court 1,2018 Intrum Stockholm Open,(6-2)(3-6)(6-4),Singles
+5f21edade7362f4842637171,2018-10-18,Men,(1) John Isner,Bradley Klahn,(1) John Isner,Second Round,Centre Court,2018 Intrum Stockholm Open,(7-6)(6-7)(7-6),Singles
+5f21edbee7362f48426373e6,2019-01-14,Men,(24) Hyeon Chung,Bradley Klahn,(24) Hyeon Chung,First Round,Court 8,2019 Australian Open,(6-7)(6-7)(6-3)(6-2)(6-4),Singles
+5f21eddae7362f4842637829,2019-03-07,Men,Bradley Klahn,Malek Jaziri,Malek Jaziri,First Round,Stadium 2,2019 BNP Paribas Open,(4-6)(2-6),Singles
+5f21ede2e7362f484263794b,2019-03-20,Men,Janko Tipsarevic,Bradley Klahn,Janko Tipsarevic,First Round,Stadium,2019 Miami Open,(6-3)(6-3),Singles
+5f21edece7362f4842637aca,2019-04-09,Men,Santiago Giraldo,Bradley Klahn,Santiago Giraldo,First Round,Centre Court,2019 US Mens Clay Court Championship,(6-4)(6-4),Singles
+5f21ee05e7362f4842637e9f,2019-05-27,Men,(21) Alex De Minaur,Bradley Klahn,(21) Alex De Minaur,First Round,Court 13,2019 French Open,(6-1)(6-4)(6-4),Singles
+5f21ee16e7362f4842638144,2019-06-24,Men,Bradley Klahn,Steve Darcis,Bradley Klahn,First Round,Alaaddin Court,2019 Turkish Airlines Open Antalya,(6-3)(6-2),Singles
+5f21ee17e7362f484263815d,2019-06-25,Men,(3) Jordan Thompson,Bradley Klahn,(3) Jordan Thompson,Second Round,Duygu Court,2019 Turkish Airlines Open Antalya,(7-6)(6-3),Singles
+5f21ee19e7362f48426381b1,2019-07-01,Men,Bradley Klahn,(21) David Goffin,(21) David Goffin,First Round,Court 17,2019 Wimbledon,(4-6)(4-6)(4-6),Singles
+5f21ee29e7362f4842638423,2019-07-22,Men,Bradley Klahn,Marius Copil,Bradley Klahn,First Round,Stadium Court,2019 BB&T; Atlanta Open,(7-6)(7-5),Singles
+5f21ee2ce7362f4842638482,2019-07-25,Men,(3) Alex De Minaur,Bradley Klahn,(3) Alex De Minaur,Second Round,Stadium Court,2019 BB&T; Atlanta Open,(6-4)(6-4),Singles
+5f21ee2ee7362f48426384c5,2019-07-29,Men,Alexander Bublik,Bradley Klahn,Alexander Bublik,First Round,John Harris Court,2019 Citi Open,(7-6)(6-3),Singles
+5f21ee34e7362f48426385c3,2019-08-06,Men,(14) Marin Cilic,Bradley Klahn,(14) Marin Cilic,First Round,Court Central,2019 Rogers Cup (M),(6-3)(7-6),Singles
+5f21ee3de7362f4842638724,2019-08-26,Men,Thiago Monteiro,Bradley Klahn,Bradley Klahn,First Round,Court 11,2019 US Open,(3-6)(2-6)(3-6),Singles
+5f21ee41e7362f48426387a4,2019-08-28,Men,Bradley Klahn,(7) Kei Nishikori,(7) Kei Nishikori,Second Round,Louis Armstrong Stadium,2019 US Open,(2-6)(6-4)(3-6)(5-7),Singles
+5f21ee52e7362f4842638a32,2019-09-26,Men,Bradley Klahn,Denis Shapovalov,Denis Shapovalov,Second Round,Court 1,2019 Chengdu Open,(6-3)(3-6)(6-7),Singles
